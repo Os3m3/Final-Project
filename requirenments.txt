@@ -1,0 +1,9 @@
+python-dotenv>=1.0.1
+SQLAlchemy>=2.0.30
+pydantic>=2.7.0
+opencv-python>=4.10.0.84
+numpy>=1.26.4
+deepface>=0.0.93
+pandas>=2.2.2
+streamlit>=1.37.0
+plotly>=5.22.0
